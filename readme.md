@@ -30,3 +30,9 @@ For TypeScript to know about mysql we need to install the mysql TypeScript type 
 
 After doing that VSCode is able to do auto completion for mysql types.
 
+## Todo
+
+* Promises
+* Async Await
+* Anything else?
+
